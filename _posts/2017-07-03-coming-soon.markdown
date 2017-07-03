@@ -19,4 +19,4 @@ Don't you worry. It will be filled out soon.
 
 Enjoy this in the mean time
 
-![Doggo]({{ site.url }}/assets/images/doggo.gif)
+![Doggo]({{ site.url }}/assets/images/doggo.jpg)
